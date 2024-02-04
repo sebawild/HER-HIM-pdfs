@@ -1,6 +1,6 @@
 # My modifications
 
-I've modified the original TeX templates for a more pronounced “Move i” font and set all colors to white, so the game states can be colored in manually after printing in black/white.\
+I've modified the original TeX templates for a more pronounced “Move i” font and set all colors to white, so the game states can be colored in manually after printing in black/white.
 
 Original readme below.
 
