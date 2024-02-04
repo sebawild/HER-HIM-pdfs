@@ -11,9 +11,9 @@ class Config :
         # Colors to use for the moves, only 4 are needed.
         # These can be any LaTeX colors including mixes using xcolor.
         # For more info see: https://en.wikibooks.org/wiki/LaTeX/Colors
-        self.colors = ["violet!80!white", "green!50!black", "yellow", "pink"]
+        self.colors = ["white", "white", "white", "white"]
         # Space between boards (in mm) on the page.
-        self.board_spacing = 8
+        self.board_spacing = 5
         # Number of boards to show per row on the page.
         self.boards_per_row = 4
 
